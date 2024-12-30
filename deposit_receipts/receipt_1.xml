@@ -1,0 +1,1 @@
+<packet><receipt action="begin" mode="online" /><position name="soda water" quantity="1" unit="" rate="A" price="5.0" recipe="" charge="" plu="" description="" action="sale" /><deposit action="sale" price="0.4" type="returned" quantity="2" /><receipt action="close" mode="online" system_number="123456" cashbox_number="02" cashier="Adam Adam" amount="5.0" /></packet>
